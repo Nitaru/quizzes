@@ -1,0 +1,29 @@
+{
+  "conversationId": "1234567890",
+  "messages": [
+    {
+      "sender": "user",
+      "message": "Hello"
+    },
+    {
+      "sender": "chatbot",
+      "message": "Good day!"
+    },
+    {
+      "sender": "user",
+      "message": "Is it sunny outside?"
+    },
+    {
+      "sender": "chatbot",
+      "message": "Yes, it's quite sunny outside"
+    },
+    {
+      "sender": "user",
+      "message": "I should go for a walk"
+    },
+    {
+      "sender": "chatbot",
+      "message": "Totally, can I go with you?"
+    }
+  ]
+}
